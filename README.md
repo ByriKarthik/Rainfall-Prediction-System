@@ -106,4 +106,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 The Algo Troopers extend heartfelt gratitude to our mentor, Ms. Sandeep Kaur, Assistant Professor at the School of Computer Science and Engineering, for expert guidance. We thank the School for providing tools, datasets, and a supportive environment. Special thanks to teammates Tokachichu Sri Charan, Sanchit, Vijay, and Arya for their collaborative efforts. Lastly, we acknowledge our families for their encouragement.
 
 ## Contact
-For questions or contributions, open an issue on this repository or contact Tokachichu SriCharan at [byrikarthik7@gmail.com].
+For questions or contributions, open an issue on this repository or contact Byri Karthik at [byrikarthik7@gmail.com].
